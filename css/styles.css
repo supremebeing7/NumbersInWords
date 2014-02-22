@@ -1,0 +1,26 @@
+/*#result {
+  display: none;
+}
+*/
+body {
+  background-image:url("http://cmcforum.com/wp-content/uploads/2011/09/scrabble.jpeg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+
+p {
+  font-size: 40px;
+  color: red;
+}
+
+#scrabble-word {
+  color: black;
+}
+
+.footer {;
+  float: bottom;
+  height: 200px;
+}
